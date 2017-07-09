@@ -1,0 +1,13 @@
+﻿  main.cpp
+  stable.cpp
+stable.cpp(119): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+stable.cpp(143): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+stable.cpp(153): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+stable.cpp(164): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+stable.cpp(366): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  12 of 368 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  max_flow_hungary.vcxproj -> C:\Users\JiangHejun\Desktop\~\车载网络\max_flow\max_flow_hungary\x64\Release\max_flow_hungary.exe
